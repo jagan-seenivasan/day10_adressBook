@@ -1,6 +1,6 @@
 using System;
 
-namespace AddressBookSystem
+namespace day10_AddressBookSystem
 {
     class Program
     {
