@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AddressBookSystem
+namespace day10_AddressBookSystem
 {
     public class contact_info
     {
